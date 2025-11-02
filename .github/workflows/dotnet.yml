@@ -37,5 +37,5 @@ jobs:
          #BRANCH: main
          #FOLDER: test
          BRANCH: gh-pages
-         FOLDER: main
+         FOLDER: wwwroot
          single-commit: true
