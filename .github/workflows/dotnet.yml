@@ -30,12 +30,13 @@ jobs:
       run: dotnet workload install wasm-tools
 #      run: dotnet workload install blazor
     - name: Publish .NET
-      run: dotnet publish -c:Release -p:GHPages=true -o main --nologo
+      #run: dotnet publish -c:Release -p:GHPages=true -o main --nologo
+      run: dotnet publish -c:Release -p:GHPages=true --nologo
     - name: Commit wwwroot to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
          #BRANCH: main
          #FOLDER: test
          BRANCH: gh-pages
-         FOLDER: main
+         #FOLDER: main
          single-commit: true
