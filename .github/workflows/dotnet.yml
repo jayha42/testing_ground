@@ -29,7 +29,8 @@ jobs:
       run: dotnet workload install wasm-tools
 #      run: dotnet workload install blazor
     - name: Publish .NET
-      run: dotnet publish -c:Release -p:GHPages=true -o main --nologo
+      run: dotnet publish --project ./Bueno Protien/Bueno Protien.csproj -c:Release -p:GHPages=true -o main --nologo
+      #run: dotnet publish -c:Release -p:GHPages=true -o main --nologo
 #      run: dotnet publish -c:Release -p:GHPages=true --nologo
     - name: Commit wwwroot to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
