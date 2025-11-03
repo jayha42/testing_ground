@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+C:\Users\Mrjay\source\repos\Bueno Protien\Bueno Protien\Bueno Protien.Client\wwwroot\appsettings.Development.json
+C:\Users\Mrjay\source\repos\Bueno Protien\Bueno Protien\Bueno Protien.Client\wwwroot\appsettings.json
