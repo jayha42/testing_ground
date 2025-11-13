@@ -1,6 +1,0 @@
-C:\Users\Mrjay\source\repos\Bueno Protien\Bueno Protien\Bueno Protien.Client\obj\Release\net10.0\staticwebassets.build.json
-C:\Users\Mrjay\source\repos\Bueno Protien\Bueno Protien\Bueno Protien.Client\obj\Release\net10.0\staticwebassets.build.json
-C:\Users\Mrjay\source\repos\Bueno Protien\Bueno Protien\Bueno Protien.Client\obj\Release\net10.0\staticwebassets.build.json
-C:\Users\Mrjay\source\repos\Bueno Protien\Bueno Protien\Bueno Protien.Client\obj\Release\net10.0\staticwebassets.build.json
-C:\Users\Mrjay\source\repos\Bueno Protien\Bueno Protien\Bueno Protien.Client\obj\Release\net10.0\staticwebassets.build.json
-C:\Users\Mrjay\source\repos\Bueno Protien\Bueno Protien\Bueno Protien.Client\obj\Release\net10.0\staticwebassets.build.json
